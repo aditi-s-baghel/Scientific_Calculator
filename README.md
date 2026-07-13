@@ -9,3 +9,9 @@ A Scientific Calculator built using Python and Streamlit.
 - Power
 - Factorial
 - Prime number check
+
+
+
+## Version 1.1
+
+- Improved project documentation.
